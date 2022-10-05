@@ -1,0 +1,2 @@
+C:\Users\com426\Desktop\0928main\1005UDPClient\x64\Debug\1005UDPClient.exe
+C:\Users\com426\Desktop\TCPIP\1005UDPClient\x64\Debug\1005UDPClient.exe
